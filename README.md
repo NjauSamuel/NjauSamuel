@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NjauSamuel
-- 👀 I’m interested in learning and becoming proficient in frameworks.
-- 🌱 I’m currently learning Python.
+- 👀👨‍🏫💻 I’m a Python and PHP developer proficient in frameworks such as PHP Laravel and Python's Flask.
+- 🌱 I’m currently doing Data analysis.
