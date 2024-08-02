@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NjauSamuel
 - 👀👨‍🏫💻 I’m a Python and PHP developer proficient in frameworks such as PHP Laravel and Python's Flask.
-- 🌱 I’m currently doing Data analysis.
+- 🌱 I’m currently doing Web Development with Laravel.
