@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @NjauSamuel
 - 👀👨‍🏫💻 I’m a Python and PHP developer proficient in frameworks such as PHP Laravel, ReactJS, and Python's Flask.
 - 🌱 I’m currently doing Web Development with Laravel.
+- 📩 njaus602@gmail.com
