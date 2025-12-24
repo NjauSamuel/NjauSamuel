@@ -2,5 +2,7 @@
 
 - 👋 Hi, I’m @NjauSamuel
 - 👀👨‍🏫💻 I’m a FullStack PHP and Python developer proficient in frameworks such as PHP Laravel, Vue JS, React JS, Django, and Python's Flask. I am also an AWS certified cloud practitioner. 
-- 🌱 I’m currently doing Web Development with Laravel.
+- 🌱 I’m currently doing Web Development with Laravel, Vue and GCP.
+- 🎨 I also have intermediate proficiency in Figma for UI/UX design.
+- 🌐 Portfolio: https://samuel.eucossa.com
 - 📩 njaus602@gmail.com
